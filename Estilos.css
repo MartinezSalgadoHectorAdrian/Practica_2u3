@@ -1,0 +1,33 @@
+
+h1{
+    font-family: "Comic Sans MS","Comic Sans",sans-serif;
+}
+
+
+    hr {
+        border: none; /* Elimina el borde predeterminado */
+        height: 2px; /* Define el grosor de la línea */
+        background-color: cadetblue; /* Cambia el color de la línea */
+        width: 100%; /* Hace que la línea ocupe todo el ancho */
+    }
+    
+h2{
+
+font-family: "Arial", sans-serif;
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+text-decoration: underline;
+color: aqua;
+
+}
+
+h3{
+    color: blueviolet;
+    background-color: #00cc99;
+    border: 1px solid #BBFFBB;
+    box-shadow: 2px 2px 5px #ffff10;
+    text-shadow: 1px 1px 2px #ff3333;
+
+
+}
